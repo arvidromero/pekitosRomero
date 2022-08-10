@@ -21,7 +21,6 @@ header{
 }
 
 
-
 .logo span{
     color:#000;
 }
@@ -156,49 +155,49 @@ h2{
 }
 
 .item1{
-    background-image: url(/images/portafolio/img01.jpg);
+    background-image: url(../images/portafolio/img01.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item2{
-    background-image: url(/images/portafolio/img02.jpg);
+    background-image: url(../images/portafolio/img02.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item3{
-    background-image: url(/images/portafolio/img03.jpg);
+    background-image: url(../images/portafolio/img03.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item4{
-    background-image: url(/images/portafolio/img04.jpg);
+    background-image: url(../images/portafolio/img04.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item5{
-    background-image: url(/images/portafolio/img05.jpg);
+    background-image: url(../images/portafolio/img05.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item6{
-    background-image: url(/images/portafolio/img06.jpg);
+    background-image: url(../images/portafolio/img06.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item7{
-    background-image: url(/images/portafolio/img07.jpg);
+    background-image: url(../images/portafolio/img07.jpg);
     background-position: center;
     background-size: cover;
 }
 
 .item8{
-    background-image: url(/images/portafolio/img08.jpg);
+    background-image: url(../images/portafolio/img08.jpg);
     background-position: center;
     background-size: cover;
 }
